@@ -16,7 +16,7 @@ TARGET_GROUP = "zrtvekovidvakcinachat"  # Uneti grupni username (deo posle @)
 # Za privatnu grupu:
 # TARGET_GROUP = "joinchat/abcdef1234567890" # Zameniti sa grupnim invite linkom (deo posle'joinchat/')
 
-#definisati zeljeni broj poruka
+# Definisati zeljeni broj poruka
 NUM_MESSAGES = 100
 
 messages = []
