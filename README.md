@@ -8,3 +8,5 @@ TG_API_HASH="Your api hash"
 
 Dobijanje api id i api hash: https://core.telegram.org/api/obtaining_api_id
 Kada se aplikacija kreira po uputstvu sa linka, dobićete API ID i API HASH, koje ćete uneti umesto teksta pod navodnicima u .txt fajlu koji je kreiran.
+
+Takođe je potrebno preko terminala instalirati sve korišćene biblioteke koristeći funkciju pip.
